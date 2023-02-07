@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Tamagochi",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "title": "Guitar Hero",
+      "price": 1200
+    },
+    {
+      "id": 3,
+      "title": "Xbox one",
+      "price": 900
+    },
+    {
+      "id": 4,
+      "title": "Fifa 2023",
+      "price": 2000
+    },
+    {
+      "id": 5,
+      "title": "Tetris",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "title": "Mortal Combat",
+      "price": 300
+    }
+  ],
+  "cart": []
+}
